@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605939498810",
+    "firebase_url": "https://pawsapp-69175.firebaseio.com",
+    "project_id": "pawsapp-69175",
+    "storage_bucket": "pawsapp-69175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605939498810:android:bc5b0ea8bc6a57064f1a03",
+        "android_client_info": {
+          "package_name": "com.example.pawsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605939498810-v1otv3i38g34870gj1odori2ogq5n8qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2PrPy7gZGkNOrDtaDw8PuliLjzC2vA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605939498810-v1otv3i38g34870gj1odori2ogq5n8qe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605939498810-sj3cr2p8buf5gkf6c8kv2ni6c2gvbblf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pawsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
